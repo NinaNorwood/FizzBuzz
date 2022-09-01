@@ -44,7 +44,7 @@ public class FizzBuzzTest {
 
         String actual = FizzBuzz.fizzBuzz(nummer);
 
-        assertEquals("fizzBuzz", actual);
+        assertEquals("blabla", actual);
 
     }
 
