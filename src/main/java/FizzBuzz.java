@@ -2,6 +2,8 @@
 public class FizzBuzz {
 
     public static void main(String[] args) {
+        System.out.println(fizzBuzz(3));
+
     }
     public static String fizzBuzz(int number) {
 
